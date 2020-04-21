@@ -10,6 +10,7 @@ What I learned: Activating containment measures early can save lives.
 * Nice webgui: http://gabgoh.github.io/COVID/index.html  
 * Another great web based model: https://neherlab.org/covid19/  
 * rewrite of this project with sophisticated code: https://github.com/cfculhane/coronaSEIR  
+* Simulating epidemics (original at gabgoh.github.io/COVID/ by Vietnamese) at http://covid.rosetta.vn/
 
 ## Disclaimer
 This is not a scientific or medical tool. Use at your own risk. BETA! There might be serious bugs.  
